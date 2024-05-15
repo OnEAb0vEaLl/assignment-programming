@@ -4,8 +4,11 @@ and
 ![image](https://github.com/OnEAb0vEaLl/assignment-programming/assets/106864801/57d170bf-8b3b-44eb-a557-55740aa53df0)
 
 the output of the program is:
+registration page:
 ![image](https://github.com/OnEAb0vEaLl/assignment-programming/assets/106864801/d027f3ec-6522-41a4-ad86-86555896907a)
+login page:
 ![image](https://github.com/OnEAb0vEaLl/assignment-programming/assets/106864801/56a4b36a-ca72-49ba-b084-b2df815ca2b1)
+user_detail:
 ![image](https://github.com/OnEAb0vEaLl/assignment-programming/assets/106864801/912bc909-3f44-450e-bdd0-9cf0033d18be)
 
 
