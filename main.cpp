@@ -24,8 +24,8 @@ int main() {
 
     const char* host = "localhost";
     const char* user = "root";
-    const char* password = "root";
-    const char* database = "fitness_world";
+    const char* password = "12345678abc";
+    const char* database = "programming";
     unsigned int port = 3306; // Default MySQL port
     if (!mysql_real_connect(connection, host, user, password, database, port, NULL, 0)) {
         std::cerr << "Error: Failed to connect to MySQL database." << std::endl;
