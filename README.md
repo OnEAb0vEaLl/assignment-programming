@@ -1,4 +1,4 @@
-the main.cpp file was connected with the mysql database programming for the assignment with the purpose of for retriving and saving data from the following table of that data base.
+the main.cpp file was connected with the mysql database programming for the assignment with the purpose of  retriving and saving data from the following table.
 ![image](https://github.com/OnEAb0vEaLl/assignment-programming/assets/106864801/07aaf618-9e78-46d3-88f4-bc7305c3422c)
 and
 ![image](https://github.com/OnEAb0vEaLl/assignment-programming/assets/106864801/57d170bf-8b3b-44eb-a557-55740aa53df0)
